@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejooj&theme=dark&layout=compact" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejooj&theme=dark&layout=compact&show_icons=true" min-width="400px" max-width="400px" width="400px" align="right">
 
 > 💻 Fullstack developer for 2 years
 > 
