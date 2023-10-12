@@ -3,7 +3,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejooj&theme=dark&layout=compact&show_icons=true&count-private=true" min-width="400px" max-width="400px" width="400px" align="right">
 
-> 💻 Fullstack developer for 2 years
+> 💻 Fullstack developer since `24/11/2021`
 > 
 > 🎮 i like to play `PUBG`, `GTA V`, `Brawlhalla`
 > 
