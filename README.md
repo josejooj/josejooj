@@ -1,5 +1,4 @@
 # Hi 👋, I'm José 
-### A passionate fullstack developer from Brazil
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejooj&theme=dark&layout=compact&show_icons=true&count-private=true" min-width="400px" max-width="400px" width="400px" align="right">
 
 > 💻 I started to develop at `24/11/2021`
