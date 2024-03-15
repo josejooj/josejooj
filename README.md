@@ -1,7 +1,7 @@
 # Hi 👋, I'm José 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejooj&theme=dark&layout=compact&show_icons=true&count-private=true" min-width="400px" max-width="400px" width="400px" align="right">
 
-> 💻 I started to develop at `24/11/2021`
+> 💻 I started to develop at `24/11/2020`
 > 
 > 🎮 i like to play `PUBG`, `RDR2`, `Brawlhalla`
 > 
